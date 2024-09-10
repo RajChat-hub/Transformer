@@ -1,0 +1,1001 @@
+ID,Name,Category,Date,Value,Description
+1,Item 1,Category C,2022-01-03,87.76,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+2,Item 2,Category C,2020-06-02,7.27,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+3,Item 3,Category A,2022-01-13,59.9,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+4,Item 4,Category C,2023-12-14,68.15,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+5,Item 5,Category B,2020-08-10,50.97,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+6,Item 6,Category B,2021-11-30,39.27,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+7,Item 7,Category C,2023-10-08,24.54,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+8,Item 8,Category B,2022-12-01,95.75,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+9,Item 9,Category C,2020-02-08,43.37,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+10,Item 10,Category B,2021-06-05,70.73,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+11,Item 11,Category B,2022-02-23,79.45,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+12,Item 12,Category A,2021-07-25,29.53,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+13,Item 13,Category B,2022-01-26,36.0,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+14,Item 14,Category A,2022-05-25,36.05,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+15,Item 15,Category B,2022-08-01,39.84,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+16,Item 16,Category D,2022-12-11,65.34,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+17,Item 17,Category C,2021-03-08,60.55,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+18,Item 18,Category C,2022-07-03,88.72,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+19,Item 19,Category C,2023-11-30,28.62,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+20,Item 20,Category B,2023-10-08,73.74,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+21,Item 21,Category B,2023-05-19,93.75,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+22,Item 22,Category C,2022-09-29,87.62,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+23,Item 23,Category A,2023-10-01,19.17,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+24,Item 24,Category D,2020-10-19,65.28,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+25,Item 25,Category A,2022-04-10,83.02,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+26,Item 26,Category C,2021-08-09,69.62,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+27,Item 27,Category B,2023-04-21,37.51,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+28,Item 28,Category A,2023-03-31,78.92,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+29,Item 29,Category D,2020-09-29,30.1,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+30,Item 30,Category D,2022-02-04,98.79,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+31,Item 31,Category C,2022-01-20,55.47,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+32,Item 32,Category A,2022-06-17,40.07,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+33,Item 33,Category D,2020-10-05,58.67,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+34,Item 34,Category B,2020-05-23,4.91,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+35,Item 35,Category C,2021-12-07,33.42,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+36,Item 36,Category D,2020-11-24,57.73,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+37,Item 37,Category A,2022-10-26,80.39,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+38,Item 38,Category B,2023-11-03,85.78,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+39,Item 39,Category A,2022-10-31,57.61,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+40,Item 40,Category B,2022-11-13,9.17,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+41,Item 41,Category C,2023-06-12,94.25,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+42,Item 42,Category B,2020-02-06,41.73,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+43,Item 43,Category A,2022-03-07,11.85,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+44,Item 44,Category D,2022-11-04,47.54,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+45,Item 45,Category B,2020-04-18,24.87,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+46,Item 46,Category A,2022-11-29,38.8,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+47,Item 47,Category D,2023-08-12,68.25,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+48,Item 48,Category C,2021-02-15,43.85,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+49,Item 49,Category B,2020-06-22,67.85,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+50,Item 50,Category A,2022-11-29,51.1,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+51,Item 51,Category A,2022-09-25,90.92,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+52,Item 52,Category B,2021-07-16,10.8,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+53,Item 53,Category A,2022-01-29,26.89,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+54,Item 54,Category B,2020-07-17,8.91,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+55,Item 55,Category B,2020-06-22,1.74,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+56,Item 56,Category D,2022-11-04,70.53,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+57,Item 57,Category D,2020-01-21,16.45,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+58,Item 58,Category C,2020-05-20,6.92,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+59,Item 59,Category B,2020-04-02,21.56,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+60,Item 60,Category A,2023-06-22,56.31,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+61,Item 61,Category C,2020-12-03,63.81,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+62,Item 62,Category D,2020-06-14,9.63,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+63,Item 63,Category C,2021-06-13,52.26,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+64,Item 64,Category D,2021-11-22,30.17,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+65,Item 65,Category C,2020-07-16,10.34,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+66,Item 66,Category B,2020-02-07,97.7,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+67,Item 67,Category D,2022-03-13,50.59,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+68,Item 68,Category A,2021-07-15,18.46,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+69,Item 69,Category A,2020-07-03,64.8,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+70,Item 70,Category C,2022-07-06,8.72,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+71,Item 71,Category D,2020-01-01,79.31,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+72,Item 72,Category D,2020-04-10,37.23,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+73,Item 73,Category B,2023-03-16,52.15,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+74,Item 74,Category B,2022-05-01,10.6,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+75,Item 75,Category C,2022-02-04,2.47,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+76,Item 76,Category D,2020-03-16,52.81,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+77,Item 77,Category A,2023-05-09,85.84,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+78,Item 78,Category D,2022-03-08,37.75,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+79,Item 79,Category C,2021-07-11,0.63,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+80,Item 80,Category D,2020-05-23,82.52,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+81,Item 81,Category C,2020-02-12,31.45,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+82,Item 82,Category D,2021-10-22,30.73,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+83,Item 83,Category D,2020-03-06,32.58,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+84,Item 84,Category D,2023-07-09,56.39,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+85,Item 85,Category B,2022-01-10,61.3,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+86,Item 86,Category B,2021-10-02,58.26,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+87,Item 87,Category A,2020-06-05,40.57,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+88,Item 88,Category B,2022-11-10,2.48,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+89,Item 89,Category B,2021-01-28,1.95,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+90,Item 90,Category B,2021-10-06,19.69,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+91,Item 91,Category C,2023-09-17,75.34,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+92,Item 92,Category A,2020-07-06,23.86,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+93,Item 93,Category A,2021-11-26,72.67,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+94,Item 94,Category D,2021-08-20,45.56,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+95,Item 95,Category B,2022-05-05,92.21,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+96,Item 96,Category C,2020-02-10,52.17,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+97,Item 97,Category B,2023-08-04,32.5,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+98,Item 98,Category C,2020-11-25,41.51,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+99,Item 99,Category A,2020-01-20,76.11,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+100,Item 100,Category A,2020-12-17,77.06,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+101,Item 101,Category C,2020-06-12,68.79,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+102,Item 102,Category C,2021-11-15,12.28,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+103,Item 103,Category B,2023-07-11,95.33,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+104,Item 104,Category D,2021-11-03,32.83,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+105,Item 105,Category A,2020-06-15,68.62,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+106,Item 106,Category A,2023-10-06,17.48,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+107,Item 107,Category A,2020-09-24,95.28,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+108,Item 108,Category B,2022-05-23,64.84,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+109,Item 109,Category B,2023-07-29,21.88,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+110,Item 110,Category A,2021-10-02,68.43,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+111,Item 111,Category B,2022-06-07,11.91,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+112,Item 112,Category A,2021-12-03,11.85,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+113,Item 113,Category C,2020-12-07,66.51,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+114,Item 114,Category D,2021-08-15,92.43,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+115,Item 115,Category C,2021-01-12,3.12,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+116,Item 116,Category C,2020-04-06,94.83,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+117,Item 117,Category A,2022-08-16,6.52,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+118,Item 118,Category D,2020-03-17,67.22,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+119,Item 119,Category C,2023-08-16,67.52,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+120,Item 120,Category D,2023-07-23,75.71,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+121,Item 121,Category C,2022-05-14,0.28,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+122,Item 122,Category A,2023-11-19,79.39,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+123,Item 123,Category B,2021-08-03,92.28,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+124,Item 124,Category D,2021-09-19,45.76,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+125,Item 125,Category A,2020-09-10,40.87,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+126,Item 126,Category B,2020-12-08,95.78,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+127,Item 127,Category C,2020-09-27,3.96,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+128,Item 128,Category C,2020-11-02,15.96,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+129,Item 129,Category A,2020-11-03,50.67,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+130,Item 130,Category B,2023-04-04,54.21,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+131,Item 131,Category B,2023-09-14,76.57,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+132,Item 132,Category A,2021-02-05,47.14,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+133,Item 133,Category B,2022-01-25,22.62,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+134,Item 134,Category A,2023-01-05,12.26,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+135,Item 135,Category D,2023-05-16,55.47,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+136,Item 136,Category A,2023-11-02,54.66,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+137,Item 137,Category B,2020-08-24,63.35,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+138,Item 138,Category A,2023-10-26,10.81,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+139,Item 139,Category B,2023-04-23,31.86,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+140,Item 140,Category B,2020-06-01,72.48,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+141,Item 141,Category B,2023-01-13,12.01,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+142,Item 142,Category A,2020-03-06,18.3,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+143,Item 143,Category A,2022-05-05,20.72,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+144,Item 144,Category B,2021-01-07,72.92,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+145,Item 145,Category C,2023-06-16,76.13,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+146,Item 146,Category B,2022-10-19,35.57,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+147,Item 147,Category D,2022-02-26,21.01,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+148,Item 148,Category A,2020-03-14,56.74,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+149,Item 149,Category D,2023-12-13,79.95,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+150,Item 150,Category C,2022-11-04,13.72,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+151,Item 151,Category C,2020-12-26,67.98,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+152,Item 152,Category A,2022-03-01,41.81,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+153,Item 153,Category D,2023-12-08,54.23,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+154,Item 154,Category C,2021-07-21,45.63,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+155,Item 155,Category B,2021-03-18,97.55,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+156,Item 156,Category D,2021-06-15,61.4,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+157,Item 157,Category A,2020-03-20,97.16,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+158,Item 158,Category D,2022-12-27,63.14,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+159,Item 159,Category C,2020-08-12,76.9,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+160,Item 160,Category B,2020-10-27,14.87,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+161,Item 161,Category A,2021-11-30,47.43,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+162,Item 162,Category D,2020-08-29,48.96,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+163,Item 163,Category B,2023-03-01,66.7,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+164,Item 164,Category B,2022-07-03,9.56,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+165,Item 165,Category C,2023-08-19,40.47,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+166,Item 166,Category A,2021-03-28,25.86,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+167,Item 167,Category A,2022-07-17,73.06,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+168,Item 168,Category D,2022-07-23,80.52,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+169,Item 169,Category B,2022-05-11,21.8,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+170,Item 170,Category B,2021-06-28,78.57,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+171,Item 171,Category D,2021-09-28,28.22,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+172,Item 172,Category D,2023-06-21,91.64,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+173,Item 173,Category B,2023-08-06,24.15,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+174,Item 174,Category A,2022-07-13,39.99,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+175,Item 175,Category B,2023-11-24,43.96,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+176,Item 176,Category C,2023-07-26,40.25,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+177,Item 177,Category A,2021-01-30,25.83,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+178,Item 178,Category A,2021-05-18,76.34,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+179,Item 179,Category D,2023-09-30,27.23,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+180,Item 180,Category A,2023-06-12,65.65,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+181,Item 181,Category C,2020-04-10,74.39,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+182,Item 182,Category A,2023-01-09,92.11,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+183,Item 183,Category A,2023-12-27,76.37,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+184,Item 184,Category A,2022-11-15,10.26,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+185,Item 185,Category A,2021-02-22,38.27,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+186,Item 186,Category A,2021-11-13,94.45,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+187,Item 187,Category B,2023-07-05,40.17,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+188,Item 188,Category A,2021-07-30,65.46,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+189,Item 189,Category A,2023-06-08,49.71,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+190,Item 190,Category B,2020-11-09,21.0,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+191,Item 191,Category A,2021-01-10,67.15,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+192,Item 192,Category D,2020-04-01,58.89,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+193,Item 193,Category B,2023-05-20,40.13,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+194,Item 194,Category B,2022-05-01,87.65,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+195,Item 195,Category A,2022-01-17,59.0,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+196,Item 196,Category B,2023-02-24,43.39,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+197,Item 197,Category B,2023-11-29,1.51,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+198,Item 198,Category A,2020-01-18,73.53,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+199,Item 199,Category A,2022-09-14,33.0,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+200,Item 200,Category C,2023-12-06,77.45,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+201,Item 201,Category A,2020-02-15,36.33,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+202,Item 202,Category B,2023-04-03,47.16,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+203,Item 203,Category D,2023-07-16,0.41,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+204,Item 204,Category C,2022-09-30,21.0,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+205,Item 205,Category C,2020-08-14,82.39,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+206,Item 206,Category A,2021-07-01,61.84,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+207,Item 207,Category C,2022-01-09,86.86,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+208,Item 208,Category C,2021-11-04,89.26,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+209,Item 209,Category B,2021-09-02,73.29,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+210,Item 210,Category C,2022-03-14,71.2,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+211,Item 211,Category C,2023-12-27,69.27,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+212,Item 212,Category B,2021-05-25,32.97,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+213,Item 213,Category C,2021-07-23,68.75,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+214,Item 214,Category C,2023-04-02,21.01,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+215,Item 215,Category A,2023-02-01,76.08,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+216,Item 216,Category B,2020-05-03,83.23,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+217,Item 217,Category D,2023-06-28,38.53,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+218,Item 218,Category A,2021-10-03,24.05,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+219,Item 219,Category D,2022-07-18,18.08,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+220,Item 220,Category D,2023-08-27,49.93,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+221,Item 221,Category C,2020-04-24,28.14,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+222,Item 222,Category A,2021-09-11,39.5,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+223,Item 223,Category C,2022-06-26,72.13,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+224,Item 224,Category C,2021-11-28,99.12,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+225,Item 225,Category D,2020-09-18,62.24,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+226,Item 226,Category D,2020-02-04,21.93,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+227,Item 227,Category D,2020-01-20,33.53,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+228,Item 228,Category A,2023-03-24,1.33,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+229,Item 229,Category A,2020-04-06,69.72,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+230,Item 230,Category B,2023-01-12,37.55,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+231,Item 231,Category B,2023-08-19,2.81,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+232,Item 232,Category D,2022-11-27,16.2,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+233,Item 233,Category C,2020-12-15,91.86,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+234,Item 234,Category C,2021-04-27,55.31,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+235,Item 235,Category C,2022-11-19,88.98,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+236,Item 236,Category C,2021-04-22,3.6,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+237,Item 237,Category B,2021-01-26,99.86,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+238,Item 238,Category C,2020-12-15,86.87,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+239,Item 239,Category A,2022-11-05,40.29,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+240,Item 240,Category C,2021-10-24,25.45,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+241,Item 241,Category C,2020-10-12,18.19,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+242,Item 242,Category A,2022-09-14,27.22,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+243,Item 243,Category D,2022-01-03,74.06,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+244,Item 244,Category B,2021-09-22,9.96,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+245,Item 245,Category B,2023-03-17,48.22,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+246,Item 246,Category D,2023-07-27,68.62,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+247,Item 247,Category D,2023-02-05,28.42,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+248,Item 248,Category B,2020-08-19,73.62,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+249,Item 249,Category B,2021-12-14,20.58,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+250,Item 250,Category B,2022-02-16,20.91,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+251,Item 251,Category C,2023-03-26,93.08,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+252,Item 252,Category B,2022-02-16,30.82,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+253,Item 253,Category D,2022-09-14,28.26,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+254,Item 254,Category A,2021-09-25,16.85,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+255,Item 255,Category D,2022-04-14,57.99,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+256,Item 256,Category C,2023-07-07,94.47,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+257,Item 257,Category D,2022-05-06,71.62,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+258,Item 258,Category D,2020-04-19,79.77,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+259,Item 259,Category C,2022-09-27,92.06,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+260,Item 260,Category C,2021-08-31,5.31,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+261,Item 261,Category C,2023-07-11,34.58,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+262,Item 262,Category D,2020-08-10,98.1,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+263,Item 263,Category C,2023-05-09,32.58,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+264,Item 264,Category C,2023-11-27,38.96,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+265,Item 265,Category D,2020-02-08,44.32,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+266,Item 266,Category C,2023-01-06,78.75,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+267,Item 267,Category C,2020-01-21,30.18,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+268,Item 268,Category C,2022-06-07,11.41,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+269,Item 269,Category A,2023-01-02,66.98,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+270,Item 270,Category D,2023-10-10,26.57,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+271,Item 271,Category D,2023-05-05,57.16,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+272,Item 272,Category D,2020-03-03,18.49,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+273,Item 273,Category A,2022-03-27,35.28,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+274,Item 274,Category A,2021-02-20,89.0,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+275,Item 275,Category B,2020-04-08,9.53,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+276,Item 276,Category D,2021-04-29,57.87,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+277,Item 277,Category D,2023-08-11,71.62,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+278,Item 278,Category A,2021-07-08,21.71,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+279,Item 279,Category B,2022-10-09,5.62,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+280,Item 280,Category B,2023-10-17,35.12,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+281,Item 281,Category B,2023-04-10,32.14,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+282,Item 282,Category B,2022-07-21,89.31,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+283,Item 283,Category A,2022-05-02,22.86,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+284,Item 284,Category B,2022-09-08,42.95,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+285,Item 285,Category C,2020-08-16,25.18,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+286,Item 286,Category A,2023-03-23,39.68,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+287,Item 287,Category C,2020-05-24,82.07,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+288,Item 288,Category B,2021-06-20,53.18,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+289,Item 289,Category D,2023-05-17,83.12,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+290,Item 290,Category D,2023-08-15,80.46,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+291,Item 291,Category D,2021-03-22,19.2,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+292,Item 292,Category B,2023-05-06,95.36,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+293,Item 293,Category C,2022-01-26,85.76,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+294,Item 294,Category C,2023-09-16,20.54,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+295,Item 295,Category C,2020-09-08,76.25,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+296,Item 296,Category A,2021-11-10,11.34,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+297,Item 297,Category B,2020-04-17,69.24,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+298,Item 298,Category C,2020-12-24,26.78,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+299,Item 299,Category A,2023-11-25,10.28,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+300,Item 300,Category C,2020-04-04,39.66,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+301,Item 301,Category A,2021-09-19,39.97,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+302,Item 302,Category B,2022-02-23,66.34,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+303,Item 303,Category C,2022-09-10,39.36,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+304,Item 304,Category A,2023-04-22,8.04,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+305,Item 305,Category D,2023-02-27,62.95,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+306,Item 306,Category D,2020-09-11,9.29,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+307,Item 307,Category A,2021-02-28,68.51,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+308,Item 308,Category C,2022-06-10,52.45,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+309,Item 309,Category A,2023-04-12,27.14,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+310,Item 310,Category D,2022-05-14,58.81,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+311,Item 311,Category D,2020-05-23,36.15,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+312,Item 312,Category D,2020-07-25,66.05,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+313,Item 313,Category D,2020-07-14,14.96,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+314,Item 314,Category A,2021-03-27,58.47,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+315,Item 315,Category B,2023-01-08,7.3,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+316,Item 316,Category C,2023-03-31,91.04,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+317,Item 317,Category C,2023-10-12,66.1,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+318,Item 318,Category C,2022-08-21,39.55,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+319,Item 319,Category A,2021-02-20,39.82,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+320,Item 320,Category C,2023-11-01,49.98,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+321,Item 321,Category C,2022-03-26,19.28,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+322,Item 322,Category D,2020-12-25,96.16,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+323,Item 323,Category A,2023-01-06,39.27,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+324,Item 324,Category B,2022-07-17,91.53,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+325,Item 325,Category D,2023-03-05,23.7,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+326,Item 326,Category B,2021-01-10,30.34,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+327,Item 327,Category B,2022-01-12,65.94,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+328,Item 328,Category D,2021-06-03,18.76,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+329,Item 329,Category D,2023-09-04,86.76,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+330,Item 330,Category D,2022-10-18,56.17,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+331,Item 331,Category A,2020-04-15,47.32,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+332,Item 332,Category B,2023-11-26,66.54,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+333,Item 333,Category D,2020-11-07,84.69,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+334,Item 334,Category A,2023-06-16,23.84,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+335,Item 335,Category B,2023-12-07,47.12,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+336,Item 336,Category C,2020-07-29,20.82,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+337,Item 337,Category D,2022-01-12,89.99,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+338,Item 338,Category A,2020-01-18,70.75,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+339,Item 339,Category A,2020-08-08,97.21,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+340,Item 340,Category A,2023-02-28,11.33,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+341,Item 341,Category A,2023-11-14,62.55,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+342,Item 342,Category C,2021-03-09,3.86,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+343,Item 343,Category C,2020-12-01,88.38,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+344,Item 344,Category A,2023-01-12,17.41,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+345,Item 345,Category D,2020-12-10,38.2,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+346,Item 346,Category A,2020-11-09,31.32,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+347,Item 347,Category A,2023-08-23,93.06,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+348,Item 348,Category A,2021-02-02,2.51,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+349,Item 349,Category A,2020-01-02,73.89,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+350,Item 350,Category B,2021-05-08,5.24,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+351,Item 351,Category B,2020-03-20,75.93,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+352,Item 352,Category B,2023-04-29,30.38,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+353,Item 353,Category A,2020-06-13,70.63,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+354,Item 354,Category C,2020-06-13,44.79,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+355,Item 355,Category C,2022-07-15,78.29,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+356,Item 356,Category B,2023-05-15,37.82,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+357,Item 357,Category A,2021-04-27,28.01,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+358,Item 358,Category D,2020-03-16,56.27,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+359,Item 359,Category A,2022-04-17,28.91,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+360,Item 360,Category B,2022-01-14,34.66,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+361,Item 361,Category C,2020-04-23,66.21,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+362,Item 362,Category A,2021-02-13,57.88,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+363,Item 363,Category B,2022-04-09,42.32,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+364,Item 364,Category B,2022-01-03,81.41,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+365,Item 365,Category C,2022-05-04,48.0,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+366,Item 366,Category A,2020-12-28,11.5,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+367,Item 367,Category B,2023-07-12,33.05,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+368,Item 368,Category C,2023-01-06,10.86,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+369,Item 369,Category C,2021-10-16,28.35,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+370,Item 370,Category B,2020-08-26,18.68,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+371,Item 371,Category D,2022-06-12,63.12,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+372,Item 372,Category D,2021-10-20,82.56,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+373,Item 373,Category C,2022-12-18,1.03,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+374,Item 374,Category B,2021-10-26,26.8,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+375,Item 375,Category B,2020-05-16,11.52,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+376,Item 376,Category D,2022-10-22,83.55,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+377,Item 377,Category C,2021-05-28,59.34,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+378,Item 378,Category B,2020-03-12,60.17,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+379,Item 379,Category C,2021-02-23,68.98,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+380,Item 380,Category C,2023-08-06,77.78,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+381,Item 381,Category A,2020-07-01,74.26,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+382,Item 382,Category C,2021-02-22,75.01,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+383,Item 383,Category C,2021-03-30,26.84,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+384,Item 384,Category C,2022-08-31,52.78,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+385,Item 385,Category A,2021-10-01,71.38,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+386,Item 386,Category A,2022-04-29,82.38,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+387,Item 387,Category B,2022-01-19,70.85,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+388,Item 388,Category C,2022-07-31,90.78,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+389,Item 389,Category A,2023-01-09,92.37,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+390,Item 390,Category D,2023-08-25,11.8,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+391,Item 391,Category B,2021-05-30,74.84,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+392,Item 392,Category B,2021-10-24,33.51,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+393,Item 393,Category B,2022-08-21,67.39,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+394,Item 394,Category C,2020-05-23,13.02,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+395,Item 395,Category B,2022-09-30,90.82,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+396,Item 396,Category C,2020-02-18,45.3,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+397,Item 397,Category B,2023-03-05,98.66,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+398,Item 398,Category B,2021-05-20,81.73,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+399,Item 399,Category D,2022-01-06,9.4,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+400,Item 400,Category B,2022-09-01,65.24,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+401,Item 401,Category A,2023-01-23,25.35,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+402,Item 402,Category D,2022-09-25,43.72,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+403,Item 403,Category D,2021-01-16,75.18,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+404,Item 404,Category A,2023-11-08,91.39,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+405,Item 405,Category A,2020-10-31,60.38,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+406,Item 406,Category B,2020-09-07,76.35,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+407,Item 407,Category D,2023-05-23,91.75,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+408,Item 408,Category D,2022-10-21,40.19,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+409,Item 409,Category A,2021-08-17,31.39,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+410,Item 410,Category D,2022-04-11,49.67,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+411,Item 411,Category D,2020-02-17,37.44,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+412,Item 412,Category A,2020-10-09,94.45,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+413,Item 413,Category B,2021-10-16,3.04,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+414,Item 414,Category D,2021-01-21,10.55,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+415,Item 415,Category B,2021-01-08,57.47,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+416,Item 416,Category D,2021-06-15,53.94,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+417,Item 417,Category C,2021-09-16,13.43,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+418,Item 418,Category A,2023-07-21,39.61,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+419,Item 419,Category A,2021-02-17,3.36,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+420,Item 420,Category C,2023-06-22,20.41,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+421,Item 421,Category B,2020-06-20,28.48,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+422,Item 422,Category A,2020-05-02,6.66,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+423,Item 423,Category B,2023-02-07,9.68,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+424,Item 424,Category C,2020-12-05,12.78,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+425,Item 425,Category B,2021-05-15,62.35,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+426,Item 426,Category B,2020-09-17,64.84,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+427,Item 427,Category D,2022-05-17,12.67,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+428,Item 428,Category C,2021-04-17,91.19,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+429,Item 429,Category B,2023-09-14,0.44,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+430,Item 430,Category D,2022-06-01,8.12,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+431,Item 431,Category C,2020-10-02,90.88,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+432,Item 432,Category B,2023-02-05,68.59,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+433,Item 433,Category A,2022-04-16,5.43,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+434,Item 434,Category A,2021-08-08,35.11,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+435,Item 435,Category B,2020-10-07,39.36,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+436,Item 436,Category A,2021-12-10,92.62,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+437,Item 437,Category B,2023-02-17,98.25,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+438,Item 438,Category A,2023-08-16,64.39,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+439,Item 439,Category C,2023-07-12,76.01,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+440,Item 440,Category B,2020-11-04,88.89,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+441,Item 441,Category D,2021-11-10,29.73,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+442,Item 442,Category B,2023-07-25,36.45,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+443,Item 443,Category C,2020-09-14,78.3,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+444,Item 444,Category B,2023-06-20,55.05,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+445,Item 445,Category A,2023-07-05,77.62,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+446,Item 446,Category D,2023-03-13,15.52,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+447,Item 447,Category C,2023-04-18,95.81,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+448,Item 448,Category D,2022-06-02,97.02,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+449,Item 449,Category B,2020-10-28,17.41,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+450,Item 450,Category B,2022-04-29,47.26,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+451,Item 451,Category C,2021-03-07,35.08,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+452,Item 452,Category B,2023-02-16,23.15,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+453,Item 453,Category B,2020-05-09,41.79,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+454,Item 454,Category A,2021-10-28,18.94,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+455,Item 455,Category A,2021-01-29,92.93,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+456,Item 456,Category A,2023-05-30,63.09,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+457,Item 457,Category C,2022-05-25,55.62,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+458,Item 458,Category B,2020-09-21,43.4,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+459,Item 459,Category C,2023-10-09,36.29,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+460,Item 460,Category D,2021-10-17,11.58,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+461,Item 461,Category B,2020-01-19,44.91,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+462,Item 462,Category D,2022-04-18,84.74,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+463,Item 463,Category B,2023-10-27,28.88,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+464,Item 464,Category A,2021-01-29,7.58,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+465,Item 465,Category D,2023-02-19,85.23,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+466,Item 466,Category A,2020-04-04,82.68,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+467,Item 467,Category D,2022-07-17,13.58,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+468,Item 468,Category B,2022-10-13,54.76,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+469,Item 469,Category C,2021-07-19,62.45,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+470,Item 470,Category C,2021-12-05,17.04,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+471,Item 471,Category B,2021-02-20,67.02,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+472,Item 472,Category C,2023-09-15,13.04,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+473,Item 473,Category B,2020-06-03,29.24,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+474,Item 474,Category B,2021-01-29,68.87,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+475,Item 475,Category D,2021-07-20,36.73,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+476,Item 476,Category C,2021-01-20,65.19,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+477,Item 477,Category B,2020-04-28,16.32,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+478,Item 478,Category A,2021-02-12,90.76,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+479,Item 479,Category A,2023-12-28,75.61,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+480,Item 480,Category A,2021-08-25,11.95,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+481,Item 481,Category A,2020-04-13,99.27,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+482,Item 482,Category D,2023-07-21,40.26,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+483,Item 483,Category D,2021-08-11,90.6,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+484,Item 484,Category D,2021-01-02,1.53,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+485,Item 485,Category D,2021-03-22,83.16,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+486,Item 486,Category D,2023-08-17,65.24,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+487,Item 487,Category B,2023-04-28,61.1,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+488,Item 488,Category C,2023-04-24,18.3,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+489,Item 489,Category C,2023-03-30,44.63,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+490,Item 490,Category D,2022-04-30,59.63,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+491,Item 491,Category D,2022-08-08,57.08,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+492,Item 492,Category C,2022-01-14,52.96,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+493,Item 493,Category D,2022-01-13,1.63,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+494,Item 494,Category C,2021-10-03,14.51,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+495,Item 495,Category D,2022-04-03,84.06,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+496,Item 496,Category D,2020-11-08,17.7,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+497,Item 497,Category A,2021-03-24,70.98,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+498,Item 498,Category D,2022-08-03,59.24,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+499,Item 499,Category A,2023-10-06,34.64,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+500,Item 500,Category D,2021-05-29,52.98,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+501,Item 501,Category C,2022-09-10,29.92,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+502,Item 502,Category D,2022-07-01,55.58,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+503,Item 503,Category B,2020-08-24,88.7,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+504,Item 504,Category B,2022-10-14,58.03,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+505,Item 505,Category B,2023-03-28,42.91,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+506,Item 506,Category B,2020-04-11,44.66,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+507,Item 507,Category B,2023-08-04,18.33,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+508,Item 508,Category D,2023-02-28,96.16,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+509,Item 509,Category A,2021-06-23,26.13,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+510,Item 510,Category B,2020-04-02,95.57,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+511,Item 511,Category A,2022-04-20,7.54,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+512,Item 512,Category D,2021-06-28,67.82,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+513,Item 513,Category D,2022-05-11,0.76,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+514,Item 514,Category D,2022-08-08,26.81,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+515,Item 515,Category C,2020-06-11,88.27,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+516,Item 516,Category B,2022-03-07,63.28,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+517,Item 517,Category B,2022-09-02,75.36,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+518,Item 518,Category B,2021-09-01,31.69,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+519,Item 519,Category B,2023-06-25,95.23,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+520,Item 520,Category B,2021-06-05,83.29,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+521,Item 521,Category D,2023-04-11,97.06,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+522,Item 522,Category B,2022-09-06,5.68,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+523,Item 523,Category B,2021-08-18,6.8,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+524,Item 524,Category A,2020-09-22,50.85,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+525,Item 525,Category B,2020-08-02,58.39,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+526,Item 526,Category D,2023-08-30,98.0,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+527,Item 527,Category C,2020-03-10,38.14,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+528,Item 528,Category D,2023-06-27,29.13,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+529,Item 529,Category A,2023-03-27,81.31,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+530,Item 530,Category C,2023-07-05,92.32,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+531,Item 531,Category B,2021-08-10,68.93,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+532,Item 532,Category D,2023-06-01,4.92,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+533,Item 533,Category C,2021-03-24,8.22,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+534,Item 534,Category D,2023-11-28,42.4,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+535,Item 535,Category B,2021-02-24,64.95,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+536,Item 536,Category C,2023-03-12,80.3,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+537,Item 537,Category B,2021-03-15,65.82,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+538,Item 538,Category B,2023-05-13,10.1,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+539,Item 539,Category B,2023-11-08,81.43,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+540,Item 540,Category A,2020-07-30,97.54,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+541,Item 541,Category D,2021-05-13,28.37,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+542,Item 542,Category A,2021-02-14,65.6,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+543,Item 543,Category D,2020-06-01,43.0,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+544,Item 544,Category C,2020-06-19,62.99,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+545,Item 545,Category A,2021-12-06,87.79,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+546,Item 546,Category C,2021-02-24,39.12,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+547,Item 547,Category A,2023-01-17,62.82,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+548,Item 548,Category D,2021-08-22,73.56,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+549,Item 549,Category B,2020-04-16,66.42,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+550,Item 550,Category B,2022-12-27,48.54,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+551,Item 551,Category A,2023-06-25,10.79,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+552,Item 552,Category D,2020-05-05,8.81,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+553,Item 553,Category C,2023-02-04,14.29,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+554,Item 554,Category C,2020-11-12,96.59,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+555,Item 555,Category A,2021-12-16,64.69,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+556,Item 556,Category A,2021-03-04,37.1,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+557,Item 557,Category B,2023-08-14,19.94,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+558,Item 558,Category D,2020-09-02,0.13,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+559,Item 559,Category C,2020-01-14,90.84,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+560,Item 560,Category C,2020-12-09,93.58,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+561,Item 561,Category A,2023-07-08,78.36,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+562,Item 562,Category D,2020-03-11,94.93,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+563,Item 563,Category D,2022-01-07,66.36,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+564,Item 564,Category D,2023-07-29,86.41,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+565,Item 565,Category B,2021-08-04,7.02,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+566,Item 566,Category D,2023-11-02,68.55,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+567,Item 567,Category C,2020-01-29,79.97,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+568,Item 568,Category C,2023-03-04,99.1,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+569,Item 569,Category D,2023-12-17,14.26,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+570,Item 570,Category C,2023-08-16,25.26,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+571,Item 571,Category D,2021-04-07,54.82,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+572,Item 572,Category B,2022-04-09,42.75,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+573,Item 573,Category D,2022-06-08,50.14,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+574,Item 574,Category D,2022-05-27,43.53,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+575,Item 575,Category C,2022-07-02,0.69,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+576,Item 576,Category A,2020-05-10,13.72,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+577,Item 577,Category D,2021-03-12,60.71,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+578,Item 578,Category A,2023-07-11,45.49,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+579,Item 579,Category A,2020-06-02,49.21,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+580,Item 580,Category B,2021-09-22,39.46,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+581,Item 581,Category C,2022-07-14,68.01,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+582,Item 582,Category C,2023-12-19,24.99,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+583,Item 583,Category D,2020-01-30,94.05,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+584,Item 584,Category C,2020-10-03,55.87,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+585,Item 585,Category B,2021-11-02,34.92,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+586,Item 586,Category B,2023-11-30,67.15,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+587,Item 587,Category D,2023-11-20,43.05,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+588,Item 588,Category A,2021-12-31,49.72,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+589,Item 589,Category B,2023-05-23,43.0,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+590,Item 590,Category B,2022-10-07,17.97,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+591,Item 591,Category D,2022-11-06,59.92,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+592,Item 592,Category A,2021-02-12,59.33,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+593,Item 593,Category D,2020-04-27,90.89,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+594,Item 594,Category D,2022-08-21,4.72,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+595,Item 595,Category D,2021-07-07,63.55,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+596,Item 596,Category A,2020-10-27,36.3,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+597,Item 597,Category B,2021-05-11,82.39,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+598,Item 598,Category D,2020-04-04,24.02,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+599,Item 599,Category D,2022-03-24,27.93,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+600,Item 600,Category B,2021-03-01,6.7,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+601,Item 601,Category B,2023-11-15,99.33,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+602,Item 602,Category A,2020-09-28,46.64,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+603,Item 603,Category A,2021-06-20,93.54,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+604,Item 604,Category B,2023-11-11,34.59,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+605,Item 605,Category A,2020-09-23,43.16,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+606,Item 606,Category D,2023-07-30,66.97,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+607,Item 607,Category B,2022-09-16,41.74,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+608,Item 608,Category B,2022-04-10,75.43,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+609,Item 609,Category A,2020-09-29,47.3,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+610,Item 610,Category D,2020-11-16,59.43,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+611,Item 611,Category D,2020-06-27,91.75,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+612,Item 612,Category B,2023-12-05,84.01,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+613,Item 613,Category D,2022-02-09,59.38,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+614,Item 614,Category B,2023-12-02,75.27,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+615,Item 615,Category C,2023-03-31,61.22,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+616,Item 616,Category B,2022-02-25,67.07,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+617,Item 617,Category C,2023-09-12,85.24,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+618,Item 618,Category C,2020-06-15,95.81,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+619,Item 619,Category C,2020-06-28,82.38,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+620,Item 620,Category B,2022-10-24,87.6,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+621,Item 621,Category D,2020-07-30,45.21,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+622,Item 622,Category C,2021-04-07,80.71,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+623,Item 623,Category C,2022-03-09,26.85,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+624,Item 624,Category D,2021-02-05,79.58,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+625,Item 625,Category A,2022-12-01,83.01,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+626,Item 626,Category A,2022-11-24,28.87,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+627,Item 627,Category D,2023-01-30,18.4,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+628,Item 628,Category C,2022-06-19,8.99,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+629,Item 629,Category C,2022-11-28,38.75,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+630,Item 630,Category D,2022-11-06,7.36,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+631,Item 631,Category C,2023-12-12,43.9,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+632,Item 632,Category D,2023-09-11,15.32,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+633,Item 633,Category A,2022-07-14,97.18,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+634,Item 634,Category A,2022-05-28,79.01,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+635,Item 635,Category B,2022-11-11,16.29,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+636,Item 636,Category A,2022-11-17,41.26,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+637,Item 637,Category A,2023-10-27,2.38,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+638,Item 638,Category D,2023-04-14,34.46,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+639,Item 639,Category C,2022-07-24,86.45,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+640,Item 640,Category D,2021-11-20,92.97,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+641,Item 641,Category D,2023-06-05,78.36,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+642,Item 642,Category C,2023-03-17,32.52,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+643,Item 643,Category D,2021-10-20,22.93,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+644,Item 644,Category C,2021-01-15,9.14,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+645,Item 645,Category A,2020-03-14,71.53,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+646,Item 646,Category D,2020-10-11,49.73,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+647,Item 647,Category B,2023-03-29,94.69,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+648,Item 648,Category C,2022-06-16,24.82,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+649,Item 649,Category A,2020-06-12,85.4,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+650,Item 650,Category D,2022-05-23,11.02,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+651,Item 651,Category C,2023-06-03,65.6,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+652,Item 652,Category D,2022-04-30,65.79,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+653,Item 653,Category B,2022-01-04,65.36,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+654,Item 654,Category B,2022-02-20,40.63,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+655,Item 655,Category D,2022-07-20,72.01,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+656,Item 656,Category D,2020-07-15,78.81,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+657,Item 657,Category C,2022-12-14,26.74,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+658,Item 658,Category B,2022-10-28,47.42,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+659,Item 659,Category D,2020-04-02,94.75,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+660,Item 660,Category A,2021-06-13,54.59,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+661,Item 661,Category C,2023-09-05,35.47,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+662,Item 662,Category B,2022-06-06,75.87,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+663,Item 663,Category D,2021-08-03,1.75,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+664,Item 664,Category B,2021-09-04,65.31,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+665,Item 665,Category D,2022-11-04,23.99,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+666,Item 666,Category D,2022-05-25,38.89,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+667,Item 667,Category A,2022-02-12,53.11,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+668,Item 668,Category C,2021-12-02,71.81,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+669,Item 669,Category C,2023-03-01,30.29,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+670,Item 670,Category A,2023-07-16,13.87,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+671,Item 671,Category D,2023-07-12,36.92,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+672,Item 672,Category B,2022-07-25,74.19,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+673,Item 673,Category C,2020-07-28,59.83,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+674,Item 674,Category A,2021-03-14,32.28,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+675,Item 675,Category C,2022-03-12,67.14,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+676,Item 676,Category D,2021-09-12,94.2,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+677,Item 677,Category D,2022-01-05,64.77,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+678,Item 678,Category B,2021-06-16,49.46,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+679,Item 679,Category D,2023-12-31,73.62,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+680,Item 680,Category B,2022-10-05,42.02,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+681,Item 681,Category B,2021-10-10,92.07,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+682,Item 682,Category A,2022-07-12,73.67,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+683,Item 683,Category D,2021-09-02,69.98,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+684,Item 684,Category B,2020-08-16,95.21,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+685,Item 685,Category D,2022-03-20,43.57,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+686,Item 686,Category B,2022-06-22,18.85,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+687,Item 687,Category D,2020-02-15,36.79,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+688,Item 688,Category B,2021-02-16,11.5,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+689,Item 689,Category A,2023-05-12,67.65,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+690,Item 690,Category C,2023-04-13,14.73,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+691,Item 691,Category B,2023-01-17,98.74,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+692,Item 692,Category D,2022-11-02,80.05,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+693,Item 693,Category D,2020-05-20,8.07,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+694,Item 694,Category A,2020-05-02,71.74,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+695,Item 695,Category C,2020-11-29,0.84,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+696,Item 696,Category C,2020-03-21,20.25,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+697,Item 697,Category D,2020-05-30,39.31,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+698,Item 698,Category C,2020-10-10,96.52,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+699,Item 699,Category C,2023-11-10,20.5,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+700,Item 700,Category C,2023-05-29,78.62,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+701,Item 701,Category B,2023-08-27,41.91,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+702,Item 702,Category B,2020-04-22,47.57,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+703,Item 703,Category C,2022-06-04,94.26,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+704,Item 704,Category B,2020-05-16,0.98,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+705,Item 705,Category B,2021-01-21,32.41,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+706,Item 706,Category A,2021-04-17,61.37,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+707,Item 707,Category D,2020-04-06,63.98,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+708,Item 708,Category A,2021-10-28,86.49,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+709,Item 709,Category C,2023-07-07,68.59,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+710,Item 710,Category A,2021-03-04,21.57,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+711,Item 711,Category B,2021-04-19,41.53,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+712,Item 712,Category B,2021-05-13,96.36,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+713,Item 713,Category B,2020-06-20,48.45,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+714,Item 714,Category D,2022-08-22,68.76,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+715,Item 715,Category B,2023-09-03,87.39,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+716,Item 716,Category C,2020-06-09,33.26,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+717,Item 717,Category C,2022-05-06,17.95,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+718,Item 718,Category C,2022-08-13,8.43,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+719,Item 719,Category A,2023-07-11,5.15,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+720,Item 720,Category B,2022-08-07,76.11,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+721,Item 721,Category C,2021-07-09,2.27,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+722,Item 722,Category A,2021-02-01,93.49,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+723,Item 723,Category A,2020-09-24,94.05,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+724,Item 724,Category C,2020-09-21,27.85,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+725,Item 725,Category D,2020-01-23,24.32,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+726,Item 726,Category D,2022-02-04,47.73,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+727,Item 727,Category D,2020-07-10,18.59,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+728,Item 728,Category A,2023-02-08,9.56,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+729,Item 729,Category B,2023-03-23,54.14,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+730,Item 730,Category A,2021-10-09,65.42,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+731,Item 731,Category B,2022-07-05,61.48,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+732,Item 732,Category D,2020-01-15,10.24,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+733,Item 733,Category A,2020-07-10,38.74,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+734,Item 734,Category B,2022-02-26,79.1,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+735,Item 735,Category D,2021-10-20,24.06,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+736,Item 736,Category C,2022-12-20,96.67,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+737,Item 737,Category C,2021-01-09,9.95,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+738,Item 738,Category D,2022-01-08,59.92,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+739,Item 739,Category D,2020-05-06,18.09,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+740,Item 740,Category C,2020-01-13,87.42,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+741,Item 741,Category D,2022-02-27,37.19,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+742,Item 742,Category C,2021-05-12,91.0,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+743,Item 743,Category C,2020-05-06,60.84,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+744,Item 744,Category D,2021-05-13,12.5,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+745,Item 745,Category B,2021-04-13,13.27,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+746,Item 746,Category B,2022-06-07,71.09,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+747,Item 747,Category C,2020-02-19,87.45,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+748,Item 748,Category D,2020-11-15,78.91,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+749,Item 749,Category B,2020-03-28,44.33,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+750,Item 750,Category C,2022-01-02,46.49,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+751,Item 751,Category A,2021-07-22,79.82,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+752,Item 752,Category A,2021-10-12,78.76,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+753,Item 753,Category B,2022-08-10,80.81,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+754,Item 754,Category A,2020-09-05,13.89,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+755,Item 755,Category D,2022-08-12,31.52,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+756,Item 756,Category B,2023-06-22,60.03,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+757,Item 757,Category B,2021-04-13,1.05,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+758,Item 758,Category C,2021-06-11,91.7,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+759,Item 759,Category B,2021-04-12,46.89,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+760,Item 760,Category A,2021-03-28,26.08,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+761,Item 761,Category A,2021-12-29,28.63,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+762,Item 762,Category D,2020-01-07,1.46,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+763,Item 763,Category B,2022-03-14,56.51,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+764,Item 764,Category A,2020-04-30,70.81,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+765,Item 765,Category B,2021-10-23,57.19,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+766,Item 766,Category B,2021-12-17,38.23,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+767,Item 767,Category D,2021-04-14,16.21,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+768,Item 768,Category C,2023-03-15,15.46,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+769,Item 769,Category A,2022-11-12,80.91,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+770,Item 770,Category D,2021-08-06,83.76,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+771,Item 771,Category C,2020-09-18,31.73,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+772,Item 772,Category C,2021-05-15,78.71,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+773,Item 773,Category B,2020-08-28,3.65,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+774,Item 774,Category B,2023-04-26,25.86,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+775,Item 775,Category D,2021-06-15,23.39,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+776,Item 776,Category A,2022-09-17,33.87,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+777,Item 777,Category A,2022-04-11,94.14,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+778,Item 778,Category A,2020-11-08,86.3,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+779,Item 779,Category D,2021-11-26,52.37,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+780,Item 780,Category D,2021-02-24,91.93,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+781,Item 781,Category A,2022-06-18,2.26,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+782,Item 782,Category B,2023-04-01,80.17,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+783,Item 783,Category C,2022-10-28,21.11,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+784,Item 784,Category B,2021-05-25,34.08,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+785,Item 785,Category D,2021-08-28,30.75,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+786,Item 786,Category C,2022-10-08,5.85,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+787,Item 787,Category B,2020-01-24,69.57,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+788,Item 788,Category C,2022-05-13,6.01,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+789,Item 789,Category B,2022-09-14,18.6,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+790,Item 790,Category C,2021-12-10,40.69,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+791,Item 791,Category A,2023-08-09,9.82,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+792,Item 792,Category B,2023-11-27,40.37,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+793,Item 793,Category B,2022-03-24,30.09,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+794,Item 794,Category C,2022-02-10,38.29,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+795,Item 795,Category C,2023-05-07,79.36,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+796,Item 796,Category B,2022-10-21,59.11,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+797,Item 797,Category D,2022-08-21,67.6,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+798,Item 798,Category B,2021-06-29,28.76,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+799,Item 799,Category C,2020-06-22,44.72,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+800,Item 800,Category D,2021-07-24,17.88,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+801,Item 801,Category C,2021-05-23,39.35,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+802,Item 802,Category B,2021-01-14,42.84,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+803,Item 803,Category B,2023-04-27,85.71,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+804,Item 804,Category A,2021-11-17,26.05,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+805,Item 805,Category D,2022-12-17,35.96,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+806,Item 806,Category A,2022-10-04,0.65,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+807,Item 807,Category B,2023-12-25,77.33,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+808,Item 808,Category D,2022-07-28,49.61,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+809,Item 809,Category C,2022-08-29,94.4,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+810,Item 810,Category C,2022-08-21,19.63,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+811,Item 811,Category A,2021-09-25,61.28,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+812,Item 812,Category D,2020-07-02,45.34,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+813,Item 813,Category C,2020-09-08,99.44,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+814,Item 814,Category A,2021-06-20,79.36,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+815,Item 815,Category A,2020-07-24,23.25,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+816,Item 816,Category D,2023-04-12,52.28,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+817,Item 817,Category C,2022-11-08,27.62,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+818,Item 818,Category C,2020-06-13,3.74,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+819,Item 819,Category B,2023-01-31,93.22,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+820,Item 820,Category A,2021-07-21,26.39,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+821,Item 821,Category B,2020-04-21,11.1,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+822,Item 822,Category D,2022-08-23,26.68,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+823,Item 823,Category C,2023-12-23,33.7,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+824,Item 824,Category A,2022-11-25,2.18,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+825,Item 825,Category C,2023-05-10,22.57,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+826,Item 826,Category C,2020-11-27,74.88,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+827,Item 827,Category D,2020-09-09,75.8,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+828,Item 828,Category C,2023-08-31,10.89,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+829,Item 829,Category B,2022-08-18,49.66,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+830,Item 830,Category A,2020-02-03,6.38,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+831,Item 831,Category A,2023-03-11,37.16,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+832,Item 832,Category B,2020-12-21,2.78,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+833,Item 833,Category D,2023-02-14,87.42,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+834,Item 834,Category A,2021-06-06,67.17,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+835,Item 835,Category B,2023-03-12,91.97,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+836,Item 836,Category A,2021-02-05,53.91,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+837,Item 837,Category B,2021-11-11,84.89,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+838,Item 838,Category C,2020-02-16,48.27,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+839,Item 839,Category B,2020-02-21,83.04,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+840,Item 840,Category D,2021-11-30,85.12,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+841,Item 841,Category B,2022-12-27,16.2,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+842,Item 842,Category A,2021-09-10,31.46,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+843,Item 843,Category B,2020-09-07,34.07,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+844,Item 844,Category D,2022-09-06,21.62,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+845,Item 845,Category B,2021-05-03,75.67,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+846,Item 846,Category A,2023-04-25,78.78,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+847,Item 847,Category B,2022-12-26,28.42,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+848,Item 848,Category B,2022-01-30,37.28,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+849,Item 849,Category C,2023-11-06,47.57,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+850,Item 850,Category C,2020-10-31,32.57,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+851,Item 851,Category B,2023-07-14,60.41,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+852,Item 852,Category D,2022-02-12,21.05,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+853,Item 853,Category C,2020-10-05,73.54,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+854,Item 854,Category C,2021-03-25,43.23,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+855,Item 855,Category B,2020-12-30,75.22,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+856,Item 856,Category D,2023-10-25,43.52,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+857,Item 857,Category D,2021-10-20,60.75,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+858,Item 858,Category A,2021-12-13,48.83,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+859,Item 859,Category D,2021-01-27,80.17,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+860,Item 860,Category A,2021-11-18,7.9,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+861,Item 861,Category B,2021-01-30,35.07,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+862,Item 862,Category B,2023-11-24,80.45,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+863,Item 863,Category C,2023-08-15,13.13,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+864,Item 864,Category C,2021-10-05,98.22,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+865,Item 865,Category D,2022-07-07,9.38,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+866,Item 866,Category D,2020-03-11,25.09,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+867,Item 867,Category A,2023-09-24,45.29,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+868,Item 868,Category D,2020-09-06,0.14,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+869,Item 869,Category A,2023-03-19,87.58,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+870,Item 870,Category A,2020-10-10,60.89,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+871,Item 871,Category B,2022-11-01,61.22,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+872,Item 872,Category C,2023-07-12,48.29,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+873,Item 873,Category D,2021-10-03,10.52,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+874,Item 874,Category C,2023-01-14,73.04,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+875,Item 875,Category B,2023-03-01,79.11,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+876,Item 876,Category D,2022-10-21,68.68,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+877,Item 877,Category A,2023-10-05,73.61,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+878,Item 878,Category C,2023-10-28,42.66,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+879,Item 879,Category C,2021-12-06,29.53,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+880,Item 880,Category B,2020-05-31,82.61,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+881,Item 881,Category A,2021-06-27,46.08,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+882,Item 882,Category B,2020-12-23,27.03,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+883,Item 883,Category D,2022-11-20,98.59,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+884,Item 884,Category A,2023-06-30,36.43,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+885,Item 885,Category B,2021-07-02,89.96,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+886,Item 886,Category C,2021-04-27,24.14,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+887,Item 887,Category A,2020-03-11,33.47,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+888,Item 888,Category D,2021-08-07,23.55,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+889,Item 889,Category B,2023-12-13,92.74,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+890,Item 890,Category B,2023-03-09,33.59,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+891,Item 891,Category C,2023-04-02,49.2,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+892,Item 892,Category C,2022-09-13,73.12,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+893,Item 893,Category D,2022-09-03,28.09,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+894,Item 894,Category A,2020-12-25,57.43,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+895,Item 895,Category D,2020-05-02,86.98,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+896,Item 896,Category C,2022-08-24,71.99,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+897,Item 897,Category B,2023-06-24,90.34,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+898,Item 898,Category B,2023-05-25,23.69,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+899,Item 899,Category B,2022-07-30,8.79,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+900,Item 900,Category C,2021-02-18,83.71,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+901,Item 901,Category D,2023-10-18,55.24,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+902,Item 902,Category C,2022-03-07,16.57,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+903,Item 903,Category B,2023-12-22,30.97,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+904,Item 904,Category C,2022-05-26,13.99,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+905,Item 905,Category C,2023-05-20,95.11,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+906,Item 906,Category C,2023-09-12,96.1,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+907,Item 907,Category D,2020-01-19,97.25,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+908,Item 908,Category D,2021-02-24,97.22,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+909,Item 909,Category D,2020-12-05,23.44,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+910,Item 910,Category A,2020-07-22,41.15,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+911,Item 911,Category A,2020-01-20,24.25,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+912,Item 912,Category C,2020-06-29,24.63,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+913,Item 913,Category B,2022-11-06,80.25,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+914,Item 914,Category C,2020-08-10,36.39,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+915,Item 915,Category C,2022-01-16,47.76,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+916,Item 916,Category D,2022-09-27,84.3,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+917,Item 917,Category C,2020-03-30,2.39,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+918,Item 918,Category B,2023-03-20,44.27,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+919,Item 919,Category D,2021-09-24,47.84,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+920,Item 920,Category A,2023-02-24,80.29,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+921,Item 921,Category B,2023-10-13,75.51,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+922,Item 922,Category A,2023-07-15,55.08,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+923,Item 923,Category C,2020-04-11,11.95,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+924,Item 924,Category B,2020-07-24,36.61,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+925,Item 925,Category B,2020-11-26,27.05,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+926,Item 926,Category A,2023-06-07,4.37,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+927,Item 927,Category A,2022-06-13,89.58,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+928,Item 928,Category A,2021-01-12,95.61,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+929,Item 929,Category D,2021-03-29,13.66,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+930,Item 930,Category D,2021-12-03,56.93,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+931,Item 931,Category C,2023-06-21,6.63,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+932,Item 932,Category D,2022-01-10,70.77,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+933,Item 933,Category D,2023-07-26,75.89,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+934,Item 934,Category B,2020-05-24,14.56,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+935,Item 935,Category C,2021-08-18,58.45,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+936,Item 936,Category D,2021-03-19,30.17,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+937,Item 937,Category D,2023-04-29,30.62,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+938,Item 938,Category C,2021-12-12,36.43,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+939,Item 939,Category A,2023-03-27,82.86,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+940,Item 940,Category D,2023-03-24,52.39,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+941,Item 941,Category B,2023-05-12,16.78,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+942,Item 942,Category D,2021-03-15,70.1,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+943,Item 943,Category A,2020-01-13,4.61,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+944,Item 944,Category C,2020-02-16,13.3,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+945,Item 945,Category B,2022-04-06,49.21,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+946,Item 946,Category B,2020-01-21,46.71,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+947,Item 947,Category D,2021-08-07,82.51,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+948,Item 948,Category A,2022-08-22,19.13,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+949,Item 949,Category D,2021-02-09,44.16,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+950,Item 950,Category A,2020-02-11,36.85,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+951,Item 951,Category D,2022-07-25,93.68,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+952,Item 952,Category D,2020-02-01,24.72,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+953,Item 953,Category B,2021-09-13,6.15,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+954,Item 954,Category D,2021-07-28,89.49,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+955,Item 955,Category A,2023-07-27,33.07,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+956,Item 956,Category C,2023-09-28,53.29,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+957,Item 957,Category B,2022-01-29,16.64,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+958,Item 958,Category C,2023-11-20,33.55,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+959,Item 959,Category C,2022-07-23,22.06,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+960,Item 960,Category B,2020-08-29,90.41,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+961,Item 961,Category D,2023-09-12,23.18,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+962,Item 962,Category B,2020-01-14,16.17,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+963,Item 963,Category D,2021-04-15,93.67,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+964,Item 964,Category C,2021-01-22,60.79,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+965,Item 965,Category A,2021-06-13,44.89,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+966,Item 966,Category D,2020-11-23,96.03,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+967,Item 967,Category A,2023-05-09,35.43,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+968,Item 968,Category C,2020-10-12,68.65,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+969,Item 969,Category D,2023-01-16,39.48,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+970,Item 970,Category B,2022-09-06,25.32,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+971,Item 971,Category D,2021-10-27,71.8,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+972,Item 972,Category A,2023-02-17,70.92,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+973,Item 973,Category A,2022-05-17,83.94,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+974,Item 974,Category B,2021-02-24,12.48,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+975,Item 975,Category A,2021-06-19,11.59,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+976,Item 976,Category A,2021-07-18,12.11,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+977,Item 977,Category C,2023-11-28,50.28,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+978,Item 978,Category A,2022-10-30,19.81,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+979,Item 979,Category A,2020-06-06,20.45,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+980,Item 980,Category A,2020-08-14,84.96,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+981,Item 981,Category D,2020-05-24,87.32,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+982,Item 982,Category C,2022-12-17,99.33,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+983,Item 983,Category D,2021-05-29,41.57,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+984,Item 984,Category C,2021-08-18,33.84,Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+985,Item 985,Category A,2022-03-17,35.24,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+986,Item 986,Category B,2022-01-13,51.97,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+987,Item 987,Category C,2021-01-19,58.48,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+988,Item 988,Category D,2023-01-29,89.48,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+989,Item 989,Category A,2020-04-10,37.14,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+990,Item 990,Category D,2021-11-11,8.64,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+991,Item 991,Category A,2022-01-14,44.6,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+992,Item 992,Category A,2020-12-14,54.96,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+993,Item 993,Category D,2020-10-29,94.99,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+994,Item 994,Category B,2021-08-04,81.45,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+995,Item 995,Category A,2022-10-28,7.13,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+996,Item 996,Category C,2023-11-16,9.97,Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+997,Item 997,Category B,2022-07-10,12.2,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+998,Item 998,Category C,2020-03-30,44.2,"Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+999,Item 999,Category A,2023-10-19,25.47,"Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+1000,Item 1000,Category D,2023-05-31,70.4,"Lorem ipsum dolor sit amet, consectetur adipiscing elit."

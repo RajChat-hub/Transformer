@@ -1,0 +1,10 @@
+name: transformer-env
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pytorch
+  - numpy
+  - pandas
+  - scikit-learn
+  - requests
